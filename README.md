@@ -1,2 +1,1 @@
-# mashayev.github.io
-My personal website
+# Eddie.ID
